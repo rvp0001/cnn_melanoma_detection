@@ -20,11 +20,12 @@
 
 ## Conclusions
 - Model will overfit if training data is less
+- Batch size important to optimise memory usage
 - Real size images need to refit
 - Augmentation using image transformation will reduce overfitting
 - Drop outs will improve accuracy
 - Reducing class imbalance will help improve accuracy
-
+- Transfer learning to further improve accuracy
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
